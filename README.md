@@ -16,7 +16,7 @@
 
 
 
-<img src="https://github.com/karimetauil/projeto---2-Easy-Shopping---pc/blob/main/capturas/Capturar%20Site%20inteiro.PNG?raw=true">
+<img src="https://github.com/">
 
 <br>
 
@@ -33,7 +33,7 @@ O Projeto --------- simula um site de compras facéis pelo celular, onde é poss
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/NLeHPJXuYE08PPmRce9nhP/Shopping-via-mobile-illustration?node-id=0%3A1). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/------------------). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
 ## :memo: Licença
 
