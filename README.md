@@ -1,4 +1,4 @@
-<h1 align="center"> Formulário de Cadastro</h1>
+<h1 align="center"> Quem sou eu </h1>
 
 <h4 align="center"> Projeto exclusivo, promovido por Karime Tauil, através de conteúdo disponibilizado pela Plataforma do Curso FullStack <a href="https://rodolfomori.com.br/devclub" target="_blank"> Dev Club. </a> </h4>
 
@@ -11,12 +11,9 @@
   <a href="#memo-licença">Licença</a>
 </p>
     
-<br>RE
+<br>
 
-
-
-
-<img src="https://github.com/">
+<img src="  ">
 
 <br>
 
@@ -25,11 +22,10 @@
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - HTML5
-- CSS3
 
 ## 💻 Projeto
 
-O Projeto --------- simula um site de compras facéis pelo celular, onde é possível adicionar produtos e fazer contatos com o responsável.
+O Projeto Quem sou eu ==========
 
 ## 🔖 Layout
 
