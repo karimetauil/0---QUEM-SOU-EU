@@ -14,15 +14,15 @@
   <br>
 
 <div align="center">
-    <img src="" width="500px">
+    <img src="https://github.com/karimetauil/0---QUEM-SOU-EU/blob/main/capturas/Projeto%20Quem%20Sou%20Eu.gif?raw=true" 
+         width="600px">
   </div>
-
 
   <br>
 
 ## 🚀 Tecnologias
 
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+Esse projeto foi desenvolvido com a seguinte tecnologia:
 
 - HTML5
 
