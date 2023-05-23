@@ -1,21 +1,24 @@
-<h1 align="center"> Quem sou eu </h1>
+<h1 align="center"> Projeto Quem Sou Eu </h1>
 
 <h4 align="center"> Projeto exclusivo, promovido por Karime Tauil, através de conteúdo disponibilizado pela Plataforma do Curso FullStack <a href="https://rodolfomori.com.br/devclub" target="_blank"> Dev Club. </a> </h4>
 
-<br>
+  <br>
 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licença">Licença</a>
+  <a href="#memo-licença">Licença</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </p>
     
-<br>
+  <br>
 
-<img src="  ">
+<div align="center">
+    <img src="" width="500px">
+  </div>
 
-<br>
+
+  <br>
 
 ## 🚀 Tecnologias
 
@@ -23,17 +26,19 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - HTML5
 
+  <br>
+
 ## 💻 Projeto
 
-O Projeto Quem sou eu ==========
+O Projeto Quem Sou Eu, visa um breve relato sobre os motivos de torna me Desenvolvedora. 
 
-## 🔖 Layout
-
-Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/------------------). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+  <br>
 
 ## :memo: Licença
 
 Esse projeto está sob a licença KTDA.
+
+  <br>
 
 ---
 
