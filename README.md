@@ -14,7 +14,7 @@
   <br>
 
 <div align="center">
-    <img src="https://github.com/karimetauil/0---QUEM-SOU-EU/blob/main/capturas/Projeto%20Quem%20Sou%20Eu.gif?raw=true" 
+    <img src="https://github.com/karimetauil/0---QUEM-SOU-EU/blob/main/captura%20de%20tela/Projeto%20Quem%20Sou%20Eu.gif?raw=true"
          width="600px">
   </div>
 
