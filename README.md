@@ -1,6 +1,8 @@
 <h1 align="center"> Projeto Quem Sou Eu </h1>
 
-<h4 align="center"> Projeto exclusivo, promovido por Karime Tauil, através de conteúdo disponibilizado pela Plataforma do Curso FullStack <a href="https://rodolfomori.com.br/devclub" target="_blank"> Dev Club. </a> </h4>
+<h4 align="center"> Projeto exclusivo, promovido por Karime Tauil, através de conteúdo disponibilizado pela Plataforma do Curso FullStack 
+  <a href="https://rodolfomori.com.br/devclub" target="_blank"> Dev Club. </a> 
+</h4>
 
   <br>
 
@@ -14,7 +16,7 @@
   <br>
 
 <div align="center">
-    <img src="https://github.com/karimetauil/0---QUEM-SOU-EU/blob/main/captura%20de%20tela/Projeto%20Quem%20Sou%20Eu.gif?raw=true"
+    <img src="https://github.com/karimetauil/0---QUEM-SOU-EU/blob/main/assets/Projeto%20Quem%20Sou%20Eu.gif?raw=true"
          width="600px">
   </div>
 
